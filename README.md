@@ -1,4 +1,4 @@
 sampleapp
 =========
 
-App exemple tuto tuby on rails
+App exemple tuto ruby on rails
